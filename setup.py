@@ -17,7 +17,7 @@ setuptools.setup(
 	'splunk_hec_handler'
     ]
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Sathishsathi/kafka_splunk_connector",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 2",
